@@ -1,0 +1,9 @@
+{
+  "server": {
+    "baseDir": ["./src", "./build/contracts"],
+    "index": "/index1.html",
+    "routes": {
+      "/node_modules": "node_modules"
+    }
+  }
+}
